@@ -28,4 +28,4 @@ JavaScript – Dynamic Date & Time
 🔹 Support for different themes
 
 # 🔗 Live Demo
-Click here to see the live demo : [here]()
+Click here to see the live demo : [here](https://ani1070git.github.io/Mini-Calendar/)

@@ -22,7 +22,10 @@ JavaScript – Dynamic Date & Time
 
 # 🎯 Future Improvements
 🔹 Add event reminders
+
 🔹 Integrate with Google Calendar API
+
 🔹 Support for different themes
 
 # 🔗 Live Demo
+Click here to see the live demo : [here]()
